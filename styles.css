@@ -1,2 +1,30 @@
+.r1{
+	text-align:left;
+	background-color:#a52a2a;
+	color:white;
+}
+.r2{
+	text-align:right;
+	background-color:#e9967a;
+	color:white;
+	
+}
+.r3{
+	text-align:right;
+	background-color:#f5deb3;
+}
+.r4{
+	text-align:right;
+	background-color:#eeee;
 
+}
+.r5{
+	text-align:left;
+}
+.r6{
+	text-align:left;
+}
+.r7{
+	text-align:left;
+}
 /* Your CSS Code here. */
